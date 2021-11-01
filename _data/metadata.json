@@ -1,15 +1,15 @@
 {
-  "title": "John Doe",
-  "url": "https://myurl.com/",
-  "description": "Photographer and Web Designer",
+  "title": "Market Maven 360",
+  "url": "https://marketmaven360.business.site/",
+  "description": "Digital Marketing, Art & Designs by Kimberly Chanclor",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Digital Art, NFTs Colleections, and Designs",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://marketmaven360.business.site/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Kimberly Chanclor",
+    "email": "marketmanagementmaven@gmail.com"
   }
 }
